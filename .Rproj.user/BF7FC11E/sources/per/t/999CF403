@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572636559207.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "656938937",
+    "id" : "999CF403",
+    "lastKnownWriteTime" : 1575695633,
+    "last_content_update" : 1575695633446,
+    "path" : "C:/Users/kaoti/Desktop/BUS696 R Project/Final Project/Google Play Store Project.R",
+    "project_path" : "Google Play Store Project.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "15",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

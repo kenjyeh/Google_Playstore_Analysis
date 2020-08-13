@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575216914687.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1181533214",
+    "id" : "C8FD618A",
+    "lastKnownWriteTime" : 1571191387,
+    "last_content_update" : 1571191387,
+    "path" : "C:/Users/kaoti/Desktop/BUS696 R Project/Class Code/class8_Lasso_ElasticNet.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "111,66",
+        "scrollLine" : "99"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
